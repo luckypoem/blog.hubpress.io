@@ -1,6 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[HubPress]]></title><description><![CDATA[HubPress]]></description><link>http://hp.bright.biz.st</link><generator>RSS for Node</generator><lastBuildDate>Tue, 21 Feb 2017 08:38:27 GMT</lastBuildDate><atom:link href="http://hp.bright.biz.st/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[一幅图]]></title><description><![CDATA[<div class="paragraph">
-<p>&lt;img src=http://img4.uploadhouse.com/fileuploads/23542/235427845bcc2fb30e1a5124a5f866caedd52fb2.jpg&gt;</p>
-</div>]]></description><link>http://hp.bright.biz.st2017-02-21.adoc</link><guid isPermaLink="true">http://hp.bright.biz.st2017-02-21.adoc</guid><pubDate>Tue, 21 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[dream and salted fish]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[HubPress]]></title><description><![CDATA[HubPress]]></description><link>http://hp.bright.biz.st</link><generator>RSS for Node</generator><lastBuildDate>Wed, 22 Feb 2017 15:37:27 GMT</lastBuildDate><atom:link href="http://hp.bright.biz.st/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[We Aren't Dead Yet: HubPress Roadmap]]></title><description><![CDATA[<div class="paragraph">
+<p>In a bug report we triaged recently, a new HubPress adopter questioned the future of the project.</p>
+</div>
+<div class="paragraph">
+<p>We have not released a platform update since June 2016. It’s a fair question for the HubPress community to ask what the future of the project is, and whether they should perhaps begin looking for another AsciiDoc static site blogging platform.</p>
+</div>
+<div class="paragraph">
+<p>Before we get to that, let’s take stock of where the project currently stands:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>We have a new plug-in architecture that modularises HubPress publishing components.</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>We have a brand new GitBook Documentation Portal which supercedes the repo-hosted docs.</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>We have 2,700 forks of the project.</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>We have a lot of happy HubPressers (and some blog teams) pumping out posts on a platform originally conceived as a proof of concept.</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>This is a good place for any Open Source project to be in!</p>
+</div>
+<div class="paragraph">
+<p>As far as work goes however, we have no shortage of bugs and enhancements:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>12 Bugs</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>9 docs improvements</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>50 (yes, 50) enhancement requests.</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>plus a few other miscellaneous bugs, but whatever: 50 Enhancements!</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>What Anthonny and I need to start doing is working on the project, not in the project for it to evolve and grow. We need to do the following:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>Give the HubPress community a real chance to contribute to the project.</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>Develop a Contribution Framework for developers and translators.</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>Document the project architecture so developers can understand the product.</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>Motivate developers to contribute to the plug-in framework that HubPress is now built upon.</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>This is the key to reinvigorating the project, because it will let the community create new features in a modular way.</p>
+</div>
+<div class="paragraph">
+<p>It is far more motivating to work on small, achievable releases than looking at 90 issues and feeling overwhelmed. Using a new feature in GitHub, we’ve created our first roadmap. The idea behind each roadmap is to use them as release mileststones for us to group similar bugs and enhancements.</p>
+</div>
+<div class="paragraph">
+<p>Milestones will not contain a lot of issues. We’ve agreed that about six issues is a good average number, with no more than 10 in total. Limiting a milestone to a low number of issues will help keep the team focused and keep the velocity up.</p>
+</div>
+<div class="paragraph">
+<p>The hard part for us is working out what issues to prioritise first. You can help us with this. It’s time to cast your vote. We can filter on the number of reactions (thumbs-up) an issue gets, and prioritise these for action in a future milstone. We’re only filtering on thumbsup, so while smileys are nice they won’t help in this case.</p>
+</div>
+<div class="paragraph">
+<p>If you want to talk more about this, you can join the discussion on <a href="https://hubpressio.slack.com" class="bare">https://hubpressio.slack.com</a></p>
+</div>
+<div class="paragraph">
+<p>So that’s where we are at the moment.</p>
+</div>
+<div class="paragraph">
+<p>Where we go next is up for discussion.</p>
+</div>
+<div class="paragraph">
+<p>Let’s talk.</p>
+</div>]]></description><link>http://hp.bright.biz.st/2017/02/22/We-Arent-Dead-Yet-Hub-Press-Roadmap.html</link><guid isPermaLink="true">http://hp.bright.biz.st/2017/02/22/We-Arent-Dead-Yet-Hub-Press-Roadmap.html</guid><pubDate>Wed, 22 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[dream and salted fish]]></title><description><![CDATA[<div class="paragraph">
 <p>周星驰的“功夫”里的‘梦想和咸鱼“论果然经典无比。</p>
 </div>]]></description><link>http://hp.bright.biz.st/2017/02/21/dream-and-salted-fish.html</link><guid isPermaLink="true">http://hp.bright.biz.st/2017/02/21/dream-and-salted-fish.html</guid><pubDate>Tue, 21 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[测试4(test-four)]]></title><description><![CDATA[<div class="paragraph">
 <p>这是测试4.</p>
