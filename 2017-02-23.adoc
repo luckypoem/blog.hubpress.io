@@ -13,7 +13,7 @@
     <link rel="shortcut icon" href="http://hp.bright.biz.st/favicon.ico">
 
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic|Open+Sans:400italic,700italic,700,400">
-    <link rel="stylesheet" type="text/css" href="//hp.bright.biz.st/themes/roon/assets/css/screen.css?v=1487787771702" />
+    <link rel="stylesheet" type="text/css" href="//hp.bright.biz.st/themes/roon/assets/css/screen.css?v=1487809808645" />
 
     <link rel="canonical" href="http://hp.bright.biz.st/2017-02-23.adoc" />
     <meta name="referrer" content="origin" />
@@ -23,6 +23,8 @@
     <meta property="og:title" content="游子吟" />
     <meta property="og:description" content="朝代：唐代 作者：孟郊 慈母手中线，游子身上衣。 临行密密缝，意恐迟迟归。 谁言寸草心，报得三春晖。" />
     <meta property="og:url" content="http://hp.bright.biz.st/2017-02-23.adoc" />
+    <meta property="article:tag" content="misc" />
+    
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="游子吟" />
     <meta name="twitter:description" content="朝代：唐代 作者：孟郊 慈母手中线，游子身上衣。 临行密密缝，意恐迟迟归。 谁言寸草心，报得三春晖。" />
@@ -35,7 +37,7 @@ null
     <meta name="generator" content="HubPress" />
     <link rel="alternate" type="application/rss+xml" title="HubPress" href="http://hp.bright.biz.st/rss/" />
 </head>
-<body class="post-template  noimage">
+<body class="post-template tag-misc  noimage">
 
     
 
