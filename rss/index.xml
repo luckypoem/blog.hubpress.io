@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[HubPress]]></title><description><![CDATA[HubPress]]></description><link>http://hp.bright.biz.st</link><generator>RSS for Node</generator><lastBuildDate>Thu, 23 Feb 2017 00:30:08 GMT</lastBuildDate><atom:link href="http://hp.bright.biz.st/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[游子吟]]></title><description><![CDATA[<div class="paragraph">
-<p>朝代：唐代</p>
-</div>
-<div class="paragraph">
-<p>作者：孟郊</p>
-</div>
-<div class="paragraph">
-<p>慈母手中线，游子身上衣。</p>
-</div>
-<div class="paragraph">
-<p>临行密密缝，意恐迟迟归。</p>
-</div>
-<div class="paragraph">
-<p>谁言寸草心，报得三春晖。</p>
-</div>]]></description><link>http://hp.bright.biz.st2017-02-23.adoc</link><guid isPermaLink="true">http://hp.bright.biz.st2017-02-23.adoc</guid><category><![CDATA[misc]]></category><pubDate>Thu, 23 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[We Aren't Dead Yet: HubPress Roadmap]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[HubPress]]></title><description><![CDATA[HubPress]]></description><link>http://hp.bright.biz.st</link><generator>RSS for Node</generator><lastBuildDate>Thu, 23 Feb 2017 00:32:08 GMT</lastBuildDate><atom:link href="http://hp.bright.biz.st/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[We Aren't Dead Yet: HubPress Roadmap]]></title><description><![CDATA[<div class="paragraph">
 <p>In a bug report we triaged recently, a new HubPress adopter questioned the future of the project.</p>
 </div>
 <div class="paragraph">
